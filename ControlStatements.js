@@ -1,4 +1,4 @@
-/*//Looping
+//looping
 //for loop
 
 Sum=0
@@ -85,7 +85,7 @@ arr.forEach(value => {
     console.log(value)
 });
 
-*/
+
 //example 2
 var kongu = new Object()
 kongu["Fees"] = 10000

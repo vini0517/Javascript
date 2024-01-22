@@ -8,7 +8,6 @@ syntax:
 variable_name=new Map();
 variableName.set("id","21ECR224")
 */
-/*
 //SET
 //example 1 
 setExample = new Set(["AIADMK","BJP","Congress"])
@@ -28,7 +27,6 @@ for(key in setExample)//no output
 {
     console.log(key)
 }
-*/
 
 //MAP
 mapEg=new Map([
